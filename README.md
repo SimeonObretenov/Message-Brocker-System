@@ -125,8 +125,3 @@ src/
 - **SLF4J** - Logging facade
 - **Lombok** - Boilerplate reduction
 
-## License
-
-MIT License
-
-MIT License
